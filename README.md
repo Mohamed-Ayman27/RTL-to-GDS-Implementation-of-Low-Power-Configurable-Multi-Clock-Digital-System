@@ -6,10 +6,10 @@ The main goal of this project is to design and implement a robust and efficient 
 
 ## Project Phases
 Project Phases<br />
-1- **RTL Design**: The system blocks are designed from scratch using RTL (Register Transfer Level) methodology. Each component is implemented with careful consideration of functionality and performance.<br />
-2- **Functional Verification**: The functionality of the system is verified using a self-checking testbench. This ensures that all components are functioning correctly and that the system as a whole performs as expected.<br />
-3- **Synthesis and Optimization**: The design is synthesized and optimized using the Design Compiler tool. Synthesis constraints are applied to achieve desired power, area, and timing goals.<br />
-4- **Timing Analysis and Optimization**: Timing paths are analyzed to identify and resolve setup and hold violations. Various techniques such as pipelining, retiming, and buffering are employed to meet timing requirements.<br />
-5- **Equivalence Checking**: The functionality equivalence of the synthesized design is verified using the Formality tool. This ensures that the optimized design still behaves equivalently to the original RTL design.<br />
-6- **Physical Implementation**: The system goes through the ASIC (Application-Specific Integrated Circuit) flow phases for physical implementation. This includes floorplanning, placement, clock tree synthesis, routing, and optimization to generate the final GDS (Graphic Data System) file.<br />
-7- **Post-layout Verification**: The functionality of the system is verified post-layout, taking into account actual delays introduced during the physical implementation process. This step ensures that the design performs as intended in real-world conditions.<br />
+1- **RTL Design**: The system blocks are designed from scratch using RTL (Register Transfer Level) methodology. Each component is implemented with careful consideration of functionality and performance.<br /><br />
+2- **Functional Verification**: The functionality of the system is verified using a self-checking testbench. This ensures that all components are functioning correctly and that the system as a whole performs as expected.<br /><br />
+3- **Synthesis and Optimization**: The design is synthesized and optimized using the Design Compiler tool. Synthesis constraints are applied to achieve desired power, area, and timing goals.<br /><br />
+4- **Timing Analysis and Optimization**: Timing paths are analyzed to identify and resolve setup and hold violations. Various techniques such as pipelining, retiming, and buffering are employed to meet timing requirements.<br /><br />
+5- **Equivalence Checking**: The functionality equivalence of the synthesized design is verified using the Formality tool. This ensures that the optimized design still behaves equivalently to the original RTL design.<br /><br />
+6- **Physical Implementation**: The system goes through the ASIC (Application-Specific Integrated Circuit) flow phases for physical implementation. This includes floorplanning, placement, clock tree synthesis, routing, and optimization to generate the final GDS (Graphic Data System) file.<br /><br />
+7- **Post-layout Verification**: The functionality of the system is verified post-layout, taking into account actual delays introduced during the physical implementation process. This step ensures that the design performs as intended in real-world conditions.<br /><br />
