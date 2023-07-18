@@ -5,7 +5,6 @@ This repository contains the project for the RTL to GDS implementation of a low 
 The main goal of this project is to design and implement a robust and efficient digital system that can handle multiple clocks and perform various operations. The system consists of several key components, including an ALU, Register File, Synchronous FIFO, Integer Clock Divider, Clock Gating, Synchronizers, Main Controller, UART TX, and UART RX.
 
 ## Project Phases
-Project Phases<br />
 1- **RTL Design**: The system blocks are designed from scratch using RTL (Register Transfer Level) methodology. Each component is implemented with careful consideration of functionality and performance.<br /><br />
 2- **Functional Verification**: The functionality of the system is verified using a self-checking testbench. This ensures that all components are functioning correctly and that the system as a whole performs as expected.<br /><br />
 3- **Synthesis and Optimization**: The design is synthesized and optimized using the Design Compiler tool. Synthesis constraints are applied to achieve desired power, area, and timing goals.<br /><br />
