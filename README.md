@@ -1,0 +1,2 @@
+# RTL-to-GDS-Implementation-of-Low-Power-Configurable-Multi-Clock-Digital-System
+Implemented a low power configurable multi-clock digital system that received commands via UART receiver to perform various system functions such as register file reading/writing and processing using an ALU block. The results, along with CRC bits, were transmitted using a 4-byte frame through the UART transmitter communication protocol.
