@@ -1,0 +1,218 @@
+{D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/UART/UART_TX/mux.v} {1 {vlog -work work -stats=none {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/UART/UART_TX/mux.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux
+
+Top level modules:
+	mux
+
+} {} {}} {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/UART/UART_RX/stp_chk.v} {1 {vlog -work work -stats=none {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/UART/UART_RX/stp_chk.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module stp_chk
+
+Top level modules:
+	stp_chk
+
+} {} {}} {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/UART/UART_RX/data_sampling.v} {1 {vlog -work work -stats=none {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/UART/UART_RX/data_sampling.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module data_sampling
+
+Top level modules:
+	data_sampling
+
+} {} {}} {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/PULSE_GEN/PULSE_GEN.v} {1 {vlog -work work -stats=none {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/PULSE_GEN/PULSE_GEN.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PULSE_GEN
+
+Top level modules:
+	PULSE_GEN
+
+} {} {}} {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/ALU/ALU.v} {1 {vlog -work work -stats=none {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/ALU/ALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/CLKDIV_MUX/CLKDIV_MUX.v} {1 {vlog -work work -stats=none {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/CLKDIV_MUX/CLKDIV_MUX.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module CLKDIV_MUX
+
+Top level modules:
+	CLKDIV_MUX
+
+} {} {}} {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/UART/UART_TOP/UART.v} {1 {vlog -work work -stats=none {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/UART/UART_TOP/UART.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module UART
+
+Top level modules:
+	UART
+
+} {} {}} {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/ASYNC_FIFO/fifo_wr.v} {1 {vlog -work work -stats=none {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/ASYNC_FIFO/fifo_wr.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fifo_wr
+
+Top level modules:
+	fifo_wr
+
+} {} {}} {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/SYS_CTRL/SYS_CTRL.v} {1 {vlog -work work -stats=none {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/SYS_CTRL/SYS_CTRL.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SYS_CTRL
+
+Top level modules:
+	SYS_CTRL
+
+} {} {}} {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/UART/UART_TX/uart_tx_fsm.v} {1 {vlog -work work -stats=none {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/UART/UART_TX/uart_tx_fsm.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module uart_tx_fsm
+
+Top level modules:
+	uart_tx_fsm
+
+} {} {}} {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/BIT_SYNC/BIT_SYNC.v} {1 {vlog -work work -stats=none {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/BIT_SYNC/BIT_SYNC.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BIT_SYNC
+
+Top level modules:
+	BIT_SYNC
+
+} {} {}} {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/Clock_Gating/CLK_GATE.v} {1 {vlog -work work -stats=none {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/Clock_Gating/CLK_GATE.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module CLK_GATE
+
+Top level modules:
+	CLK_GATE
+
+} {} {}} {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/SYS_TOP_TB.v} {1 {vlog -work work -stats=none {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/SYS_TOP_TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SYS_TOP_TB
+
+Top level modules:
+	SYS_TOP_TB
+
+} {} {}} {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/UART/UART_RX/par_chk.v} {1 {vlog -work work -stats=none {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/UART/UART_RX/par_chk.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module par_chk
+
+Top level modules:
+	par_chk
+
+} {} {}} {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/UART/UART_RX/edge_bit_counter.v} {1 {vlog -work work -stats=none {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/UART/UART_RX/edge_bit_counter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module edge_bit_counter
+
+Top level modules:
+	edge_bit_counter
+
+} {} {}} {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/RST_SYNC/RST_SYNC.v} {1 {vlog -work work -stats=none {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/RST_SYNC/RST_SYNC.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RST_SYNC
+
+Top level modules:
+	RST_SYNC
+
+} {} {}} {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/ASYNC_FIFO/fifo_rd.v} {1 {vlog -work work -stats=none {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/ASYNC_FIFO/fifo_rd.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fifo_rd
+
+Top level modules:
+	fifo_rd
+
+} {} {}} {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/ASYNC_FIFO/fifo_mem.v} {1 {vlog -work work -stats=none {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/ASYNC_FIFO/fifo_mem.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fifo_mem
+
+Top level modules:
+	fifo_mem
+
+} {} {}} {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/UART/UART_TX/Serializer.v} {1 {vlog -work work -stats=none {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/UART/UART_TX/Serializer.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Serializer
+
+Top level modules:
+	Serializer
+
+} {} {}} {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/RegFile/RegFile.v} {1 {vlog -work work -stats=none {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/RegFile/RegFile.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RegFile
+
+Top level modules:
+	RegFile
+
+} {} {}} {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/ASYNC_FIFO/BIT_SYNC.v} {1 {vlog -work work -stats=none {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/ASYNC_FIFO/BIT_SYNC.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BIT_SYNC
+
+Top level modules:
+	BIT_SYNC
+
+} {} {}} {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/DATA_SYNC/DATA_SYNC.v} {1 {vlog -work work -stats=none {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/DATA_SYNC/DATA_SYNC.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DATA_SYNC
+
+Top level modules:
+	DATA_SYNC
+
+} {} {}} {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/UART/UART_TX/parity_calc.v} {1 {vlog -work work -stats=none {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/UART/UART_TX/parity_calc.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module parity_calc
+
+Top level modules:
+	parity_calc
+
+} {} {}} {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/UART/UART_RX/UART_RX.v} {1 {vlog -work work -stats=none {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/UART/UART_RX/UART_RX.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module UART_RX
+
+Top level modules:
+	UART_RX
+
+} {} {}} {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/Clock_Divider/ClkDiv.v} {1 {vlog -work work -stats=none {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/Clock_Divider/ClkDiv.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ClkDiv
+
+Top level modules:
+	ClkDiv
+
+} {} {}} {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/UART/UART_TX/UART_TX.v} {1 {vlog -work work -stats=none {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/UART/UART_TX/UART_TX.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module UART_TX
+
+Top level modules:
+	UART_TX
+
+} {} {}} {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/UART/UART_RX/uart_rx_fsm.v} {1 {vlog -work work -stats=none {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/UART/UART_RX/uart_rx_fsm.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module uart_rx_fsm
+
+Top level modules:
+	uart_rx_fsm
+
+} {} {}} {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/UART/UART_RX/strt_chk.v} {1 {vlog -work work -stats=none {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/UART/UART_RX/strt_chk.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module strt_chk
+
+Top level modules:
+	strt_chk
+
+} {} {}} {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/SYS_TOP.v} {1 {vlog -work work -stats=none {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/SYS_TOP.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SYS_TOP
+
+Top level modules:
+	SYS_TOP
+
+} {} {}} {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/ASYNC_FIFO/Async_fifo.v} {1 {vlog -work work -stats=none {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/ASYNC_FIFO/Async_fifo.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Async_fifo
+
+Top level modules:
+	Async_fifo
+
+} {} {}} {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/UART/UART_RX/deserializer.v} {1 {vlog -work work -stats=none {D:/PDFs/4th_Year_SummerVacation/Digital IC Design Diploma/System/Final_SYSTEM/Top/UART/UART_RX/deserializer.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module deserializer
+
+Top level modules:
+	deserializer
+
+} {} {}}
